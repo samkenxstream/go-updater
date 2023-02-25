@@ -10,7 +10,7 @@ require (
 	github.com/keybase/go-ps v0.0.0-20190827175125-91aafc93ba19
 	github.com/keybase/saltpack v0.0.0-20211118165207-4039c5df46c0
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1
+	golang.org/x/sys v0.1.0
 )
 
 require (
